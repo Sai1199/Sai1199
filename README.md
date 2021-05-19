@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sai1199
-- 👀 I’m interested in ... Sofwtare field
+- 👀 I’m interested in ... Software field
 - 🌱 I’m currently learning ... Java  
 - 💞️ I’m looking to collaborate on ... Developing/Testing 
 - 📫 How to reach me ... 7842349747
